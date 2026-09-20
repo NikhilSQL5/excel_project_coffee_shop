@@ -156,9 +156,6 @@ BrewTrack-Excel-Portfolio/
 │
 ├── excel/
 │   └── Excel_Data_Analyst_Portfolio_Project.xlsx
-│
-├── documentation/
-    └── Excel_Data_Analyst_Project_Documentation.docx
 ```
 
 ## How to Use This Project
