@@ -158,13 +158,7 @@ BrewTrack-Excel-Portfolio/
 │   └── Excel_Data_Analyst_Portfolio_Project.xlsx
 │
 ├── documentation/
-│   └── Excel_Data_Analyst_Project_Documentation.docx
-│
-├── interview/
-│   └── Excel_Project_Interview_Questions.docx
-│
-└── reference/
-    └── Excel_Data_Analyst_Formula_Cheat_Sheet.xlsx
+    └── Excel_Data_Analyst_Project_Documentation.docx
 ```
 
 ## How to Use This Project
