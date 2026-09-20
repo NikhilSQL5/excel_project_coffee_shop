@@ -1,0 +1,198 @@
+Order_ID,Order_Date,Outlet,Product,Category,Quantity,Unit_Price,Sales,Cost,Profit,Profit_Margin,Month,Year,Payment_Method,Order_Status,Order_Status_Category
+ORD1145,2026-07-11,Koramangala,Danish Pastry,Bakery,1,160,160,78,82,0.5125,Jul-2026,2026,Cash,Cancelled,Not Completed
+ORD1010,2026-06-06,Koramangala,Muffin,Bakery,1,130,130,57,73,0.561538,Jun-2026,2026,UPI,Completed,Completed
+ORD1018,2026-06-17,Koramangala,Veg Puff,Snacks,3,80,240,125,115,0.479167,Jun-2026,2026,Card,Completed,Completed
+ORD1021,2026-08-08,Koramangala,Brownie,Bakery,2,150,300,123,177,0.59,Aug-2026,2026,UPI,Completed,Completed
+ORD1046,2026-06-20,Whitefield,Hot Chocolate,Hot Beverages,1,170,170,62,108,0.635294,Jun-2026,2026,UPI,Completed,Completed
+ORD1007,2026-07-30,HSR Layout,Brownie,Bakery,1,150,150,74,76,0.506667,Jul-2026,2026,Cash,Completed,Completed
+ORD1053,2026-08-28,Indiranagar,Sandwich,Snacks,3,190,570,259,311,0.545614,Aug-2026,2026,UPI,Completed,Completed
+ORD1092,2026-07-01,Whitefield,Garlic Bread,Snacks,2,150,300,141,159,0.53,Jul-2026,2026,UPI,Completed,Completed
+ORD1130,2026-06-25,Whitefield,Espresso,Hot Beverages,1,150,150,67,83,0.553333,Jun-2026,2026,UPI,Completed,Completed
+ORD1184,2026-08-21,Koramangala,Croissant,Bakery,2,140,280,116,164,0.585714,Aug-2026,2026,Not Specified,Completed,Completed
+ORD1022,2026-08-21,Whitefield,Brownie,Bakery,2,150,300,137,163,0.543333,Aug-2026,2026,UPI,Completed,Completed
+ORD1043,2026-08-04,Indiranagar,Iced Tea,Cold Beverages,2,150,300,130,170,0.566667,Aug-2026,2026,UPI,Cancelled,Not Completed
+ORD1106,2026-07-10,Koramangala,Cappuccino,Hot Beverages,1,180,180,79,101,0.561111,Jul-2026,2026,Cash,Completed,Completed
+ORD1146,2026-08-21,Indiranagar,Danish Pastry,Bakery,2,160,320,136,184,0.575,Aug-2026,2026,UPI,Completed,Completed
+ORD1088,2026-07-18,HSR Layout,Cappuccino,Hot Beverages,3,180,540,223,317,0.587037,Jul-2026,2026,Card,Cancelled,Not Completed
+ORD1153,2026-07-11,Koramangala,Latte,Hot Beverages,2,190,380,167,213,0.560526,Jul-2026,2026,Cash,Completed,Completed
+ORD1125,2026-08-10,Whitefield,Cold Brew,Cold Beverages,4,220,880,412,468,0.531818,Aug-2026,2026,Card,Completed,Completed
+ORD1093,2026-06-27,HSR Layout,Frappe,Cold Beverages,2,240,480,198,282,0.5875,Jun-2026,2026,Cash,Completed,Completed
+ORD1102,2026-06-05,Whitefield,Hot Chocolate,Hot Beverages,2,170,340,137,203,0.597059,Jun-2026,2026,UPI,Completed,Completed
+ORD1014,2026-07-21,HSR Layout,Garlic Bread,Snacks,1,150,150,72,78,0.52,Jul-2026,2026,UPI,Cancelled,Not Completed
+ORD1109,2026-08-03,Indiranagar,Croissant,Bakery,2,140,280,119,161,0.575,Aug-2026,2026,UPI,Completed,Completed
+ORD1076,2026-06-19,Whitefield,Iced Tea,Cold Beverages,2,150,300,135,165,0.55,Jun-2026,2026,Cash,Completed,Completed
+ORD1041,2026-07-12,HSR Layout,Filter Coffee,Hot Beverages,3,120,360,128,232,0.644444,Jul-2026,2026,UPI,Completed,Completed
+ORD1148,2026-06-25,Koramangala,Latte,Hot Beverages,2,190,380,145,235,0.618421,Jun-2026,2026,UPI,Completed,Completed
+ORD1192,2026-08-29,Koramangala,Muffin,Bakery,1,130,130,58,72,0.553846,Aug-2026,2026,UPI,Cancelled,Not Completed
+ORD1193,2026-06-12,HSR Layout,Cappuccino,Hot Beverages,1,180,180,68,112,0.622222,Jun-2026,2026,UPI,Completed,Completed
+ORD1195,2026-08-17,Koramangala,Brownie,Bakery,2,150,300,139,161,0.536667,Aug-2026,2026,Card,Completed,Completed
+ORD1118,2026-08-20,HSR Layout,Latte,Hot Beverages,1,190,190,75,115,0.605263,Aug-2026,2026,Card,Completed,Completed
+ORD1003,2026-06-08,Koramangala,Frappe,Cold Beverages,2,240,480,210,270,0.5625,Jun-2026,2026,UPI,Completed,Completed
+ORD1132,2026-07-18,Koramangala,Croissant,Bakery,1,140,140,57,83,0.592857,Jul-2026,2026,Cash,Completed,Completed
+ORD1020,2026-06-27,HSR Layout,Cold Brew,Cold Beverages,1,220,220,97,123,0.559091,Jun-2026,2026,UPI,Completed,Completed
+ORD1144,2026-07-20,HSR Layout,Iced Latte,Cold Beverages,1,200,200,93,107,0.535,Jul-2026,2026,UPI,Cancelled,Not Completed
+ORD1023,2026-07-30,HSR Layout,Garlic Bread,Snacks,1,150,150,66,84,0.56,Jul-2026,2026,Cash,Completed,Completed
+ORD1103,2026-06-13,Koramangala,Croissant,Bakery,2,140,280,132,148,0.528571,Jun-2026,2026,UPI,Completed,Completed
+ORD1061,2026-08-21,Indiranagar,Danish Pastry,Bakery,4,160,640,331,309,0.482812,Aug-2026,2026,Card,Completed,Completed
+ORD1137,2026-06-05,HSR Layout,Garlic Bread,Snacks,1,150,150,65,85,0.566667,Jun-2026,2026,UPI,Completed,Completed
+ORD1169,2026-06-01,Koramangala,Latte,Hot Beverages,2,190,380,148,232,0.610526,Jun-2026,2026,UPI,Completed,Completed
+ORD1139,2026-07-24,Koramangala,Croissant,Bakery,2,140,280,142,138,0.492857,Jul-2026,2026,UPI,Completed,Completed
+ORD1055,2026-08-10,HSR Layout,Iced Tea,Cold Beverages,2,150,300,115,185,0.616667,Aug-2026,2026,Cash,Cancelled,Not Completed
+ORD1177,2026-07-12,Indiranagar,Danish Pastry,Bakery,1,160,160,69,91,0.56875,Jul-2026,2026,Card,Completed,Completed
+ORD1112,2026-08-30,Koramangala,Cold Brew,Cold Beverages,1,220,220,103,117,0.531818,Aug-2026,2026,Card,Completed,Completed
+ORD1115,2026-06-11,Whitefield,Sandwich,Snacks,4,190,760,331,429,0.564474,Jun-2026,2026,Card,Completed,Completed
+ORD1015,2026-07-26,Whitefield,Sandwich,Snacks,4,190,760,387,373,0.490789,Jul-2026,2026,UPI,Completed,Completed
+ORD1107,2026-06-30,HSR Layout,Brownie,Bakery,1,150,150,61,89,0.593333,Jun-2026,2026,Not Specified,Completed,Completed
+ORD1086,2026-06-10,Whitefield,Sandwich,Snacks,2,190,380,202,178,0.468421,Jun-2026,2026,UPI,Completed,Completed
+ORD1168,2026-08-11,Whitefield,Veg Puff,Snacks,2,80,160,78,82,0.5125,Aug-2026,2026,UPI,Completed,Completed
+ORD1196,2026-08-10,Whitefield,Cold Brew,Cold Beverages,2,220,440,198,242,0.55,Aug-2026,2026,UPI,Completed,Completed
+ORD1027,2026-08-21,Indiranagar,Iced Latte,Cold Beverages,3,200,600,277,323,0.538333,Aug-2026,2026,Cash,Completed,Completed
+ORD1136,2026-06-27,Koramangala,Muffin,Bakery,1,130,130,58,72,0.553846,Jun-2026,2026,Cash,Completed,Completed
+ORD1079,2026-07-10,Koramangala,Garlic Bread,Snacks,1,150,150,72,78,0.52,Jul-2026,2026,Card,Cancelled,Not Completed
+ORD1151,2026-08-19,HSR Layout,Cold Brew,Cold Beverages,3,220,660,277,383,0.580303,Aug-2026,2026,UPI,Completed,Completed
+ORD1071,2026-08-27,Indiranagar,Espresso,Hot Beverages,1,150,150,54,96,0.64,Aug-2026,2026,Not Specified,Completed,Completed
+ORD1181,2026-06-04,Koramangala,Latte,Hot Beverages,1,190,190,79,111,0.584211,Jun-2026,2026,UPI,Completed,Completed
+ORD1038,2026-08-09,HSR Layout,Hot Chocolate,Hot Beverages,1,170,170,72,98,0.576471,Aug-2026,2026,Card,Completed,Completed
+ORD1063,2026-08-25,Whitefield,Frappe,Cold Beverages,2,240,480,185,295,0.614583,Aug-2026,2026,UPI,Completed,Completed
+ORD1167,2026-06-09,Indiranagar,Iced Tea,Cold Beverages,1,150,150,61,89,0.593333,Jun-2026,2026,UPI,Completed,Completed
+ORD1044,2026-08-29,Whitefield,Iced Latte,Cold Beverages,3,200,600,236,364,0.606667,Aug-2026,2026,UPI,Completed,Completed
+ORD1024,2026-08-01,Indiranagar,Nachos,Snacks,1,170,170,92,78,0.458824,Aug-2026,2026,UPI,Completed,Completed
+ORD1131,2026-06-13,HSR Layout,Latte,Hot Beverages,1,190,190,76,114,0.6,Jun-2026,2026,Card,Completed,Completed
+ORD1084,2026-07-13,Koramangala,Muffin,Bakery,2,130,260,130,130,0.5,Jul-2026,2026,UPI,Cancelled,Not Completed
+ORD1045,2026-06-10,Indiranagar,Sandwich,Snacks,1,190,190,96,94,0.494737,Jun-2026,2026,Cash,Cancelled,Not Completed
+ORD1116,2026-07-16,Whitefield,Sandwich,Snacks,1,190,190,97,93,0.489474,Jul-2026,2026,UPI,Completed,Completed
+ORD1185,2026-07-08,Whitefield,Muffin,Bakery,1,130,130,52,78,0.6,Jul-2026,2026,UPI,Completed,Completed
+ORD1160,2026-08-08,HSR Layout,Brownie,Bakery,1,150,150,78,72,0.48,Aug-2026,2026,Not Specified,Completed,Completed
+ORD1182,2026-06-06,Koramangala,Brownie,Bakery,1,150,150,77,73,0.486667,Jun-2026,2026,UPI,Completed,Completed
+ORD1008,2026-08-13,Whitefield,Nachos,Snacks,2,170,340,158,182,0.535294,Aug-2026,2026,UPI,Completed,Completed
+ORD1096,2026-07-19,Whitefield,Muffin,Bakery,2,130,260,120,140,0.538462,Jul-2026,2026,Cash,Completed,Completed
+ORD1157,2026-07-04,Indiranagar,Muffin,Bakery,1,130,130,55,75,0.576923,Jul-2026,2026,UPI,Completed,Completed
+ORD1176,2026-06-02,Indiranagar,Iced Tea,Cold Beverages,3,150,450,209,241,0.535556,Jun-2026,2026,UPI,Completed,Completed
+ORD1141,2026-07-25,Koramangala,Espresso,Hot Beverages,1,150,150,66,84,0.56,Jul-2026,2026,UPI,Completed,Completed
+ORD1186,2026-08-31,Whitefield,Muffin,Bakery,2,130,260,123,137,0.526923,Aug-2026,2026,UPI,Completed,Completed
+ORD1166,2026-07-31,Indiranagar,Hot Chocolate,Hot Beverages,1,170,170,73,97,0.570588,Jul-2026,2026,Cash,Completed,Completed
+ORD1089,2026-08-10,Indiranagar,Espresso,Hot Beverages,1,150,150,63,87,0.58,Aug-2026,2026,UPI,Completed,Completed
+ORD1155,2026-06-22,Indiranagar,Espresso,Hot Beverages,3,150,450,185,265,0.588889,Jun-2026,2026,UPI,Completed,Completed
+ORD1001,2026-07-12,Indiranagar,Danish Pastry,Bakery,2,160,320,131,189,0.590625,Jul-2026,2026,UPI,Completed,Completed
+ORD1171,2026-08-22,HSR Layout,Cold Brew,Cold Beverages,2,220,440,170,270,0.613636,Aug-2026,2026,Cash,Cancelled,Not Completed
+ORD1035,2026-08-24,Whitefield,Hot Chocolate,Hot Beverages,2,170,340,123,217,0.638235,Aug-2026,2026,UPI,Cancelled,Not Completed
+ORD1128,2026-08-25,Koramangala,Croissant,Bakery,1,140,140,66,74,0.528571,Aug-2026,2026,UPI,Completed,Completed
+ORD1165,2026-08-08,Indiranagar,Sandwich,Snacks,2,190,380,189,191,0.502632,Aug-2026,2026,UPI,Completed,Completed
+ORD1069,2026-08-19,Indiranagar,Latte,Hot Beverages,3,190,570,240,330,0.578947,Aug-2026,2026,UPI,Completed,Completed
+ORD1098,2026-07-10,Koramangala,Hot Chocolate,Hot Beverages,1,170,170,72,98,0.576471,Jul-2026,2026,Card,Completed,Completed
+ORD1011,2026-06-09,Koramangala,Iced Tea,Cold Beverages,2,150,300,134,166,0.553333,Jun-2026,2026,UPI,Completed,Completed
+ORD1190,2026-08-03,Whitefield,Nachos,Snacks,1,170,170,92,78,0.458824,Aug-2026,2026,UPI,Completed,Completed
+ORD1142,2026-06-02,Koramangala,Hot Chocolate,Hot Beverages,2,170,340,150,190,0.558824,Jun-2026,2026,UPI,Completed,Completed
+ORD1194,2026-06-22,HSR Layout,Frappe,Cold Beverages,4,240,960,377,583,0.607292,Jun-2026,2026,Cash,Completed,Completed
+ORD1174,2026-08-28,Whitefield,Latte,Hot Beverages,1,190,190,77,113,0.594737,Aug-2026,2026,UPI,Completed,Completed
+ORD1191,2026-08-29,Indiranagar,Garlic Bread,Snacks,1,150,150,81,69,0.46,Aug-2026,2026,Cash,Completed,Completed
+ORD1042,2026-06-13,HSR Layout,Cappuccino,Hot Beverages,2,180,360,159,201,0.558333,Jun-2026,2026,UPI,Completed,Completed
+ORD1163,2026-08-20,HSR Layout,Sandwich,Snacks,2,190,380,204,176,0.463158,Aug-2026,2026,UPI,Completed,Completed
+ORD1143,2026-07-18,Indiranagar,Hot Chocolate,Hot Beverages,1,170,170,62,108,0.635294,Jul-2026,2026,Not Specified,Completed,Completed
+ORD1047,2026-06-13,HSR Layout,Garlic Bread,Snacks,1,150,150,76,74,0.493333,Jun-2026,2026,UPI,Completed,Completed
+ORD1039,2026-08-06,HSR Layout,Nachos,Snacks,1,170,170,75,95,0.558824,Aug-2026,2026,UPI,Completed,Completed
+ORD1095,2026-07-04,Indiranagar,Cappuccino,Hot Beverages,2,180,360,141,219,0.608333,Jul-2026,2026,UPI,Completed,Completed
+ORD1004,2026-06-07,Indiranagar,Latte,Hot Beverages,2,190,380,138,242,0.636842,Jun-2026,2026,UPI,Completed,Completed
+ORD1030,2026-06-11,Indiranagar,Filter Coffee,Hot Beverages,1,120,120,44,76,0.633333,Jun-2026,2026,UPI,Completed,Completed
+ORD1074,2026-07-04,Indiranagar,Iced Latte,Cold Beverages,1,200,200,89,111,0.555,Jul-2026,2026,UPI,Completed,Completed
+ORD1152,2026-07-17,Koramangala,Veg Puff,Snacks,2,80,160,81,79,0.49375,Jul-2026,2026,UPI,Completed,Completed
+ORD1117,2026-07-28,Indiranagar,Muffin,Bakery,1,130,130,66,64,0.492308,Jul-2026,2026,UPI,Completed,Completed
+ORD1037,2026-06-28,Koramangala,Iced Tea,Cold Beverages,1,150,150,65,85,0.566667,Jun-2026,2026,Cash,Completed,Completed
+ORD1056,2026-06-21,Whitefield,Latte,Hot Beverages,1,190,190,84,106,0.557895,Jun-2026,2026,Cash,Completed,Completed
+ORD1078,2026-07-08,Whitefield,Veg Puff,Snacks,2,80,160,83,77,0.48125,Jul-2026,2026,Card,Completed,Completed
+ORD1105,2026-07-02,HSR Layout,Nachos,Snacks,1,170,170,77,93,0.547059,Jul-2026,2026,Card,Completed,Completed
+ORD1012,2026-08-22,HSR Layout,Croissant,Bakery,2,140,280,142,138,0.492857,Aug-2026,2026,UPI,Cancelled,Not Completed
+ORD1140,2026-07-17,Indiranagar,Danish Pastry,Bakery,2,160,320,136,184,0.575,Jul-2026,2026,UPI,Cancelled,Not Completed
+ORD1050,2026-06-09,Koramangala,Frappe,Cold Beverages,4,240,960,375,585,0.609375,Jun-2026,2026,UPI,Completed,Completed
+ORD1183,2026-08-31,HSR Layout,Filter Coffee,Hot Beverages,1,120,120,44,76,0.633333,Aug-2026,2026,UPI,Cancelled,Not Completed
+ORD1080,2026-07-28,Whitefield,Danish Pastry,Bakery,1,160,160,82,78,0.4875,Jul-2026,2026,UPI,Completed,Completed
+ORD1066,2026-08-23,Indiranagar,Frappe,Cold Beverages,2,240,480,183,297,0.61875,Aug-2026,2026,UPI,Completed,Completed
+ORD1124,2026-06-11,Indiranagar,Danish Pastry,Bakery,2,160,320,137,183,0.571875,Jun-2026,2026,UPI,Completed,Completed
+ORD1068,2026-08-07,Indiranagar,Danish Pastry,Bakery,2,160,320,156,164,0.5125,Aug-2026,2026,UPI,Completed,Completed
+ORD1082,2026-08-30,Whitefield,Frappe,Cold Beverages,2,240,480,224,256,0.533333,Aug-2026,2026,UPI,Completed,Completed
+ORD1090,2026-08-22,Whitefield,Garlic Bread,Snacks,1,150,150,81,69,0.46,Aug-2026,2026,UPI,Completed,Completed
+ORD1094,2026-08-10,Indiranagar,Frappe,Cold Beverages,1,240,240,99,141,0.5875,Aug-2026,2026,UPI,Completed,Completed
+ORD1075,2026-06-10,HSR Layout,Croissant,Bakery,2,140,280,133,147,0.525,Jun-2026,2026,Cash,Completed,Completed
+ORD1087,2026-08-24,Whitefield,Hot Chocolate,Hot Beverages,1,170,170,64,106,0.623529,Aug-2026,2026,UPI,Completed,Completed
+ORD1150,2026-08-04,HSR Layout,Cold Brew,Cold Beverages,1,220,220,97,123,0.559091,Aug-2026,2026,UPI,Completed,Completed
+ORD1032,2026-06-16,HSR Layout,Iced Latte,Cold Beverages,2,200,400,159,241,0.6025,Jun-2026,2026,Cash,Completed,Completed
+ORD1033,2026-07-21,HSR Layout,Danish Pastry,Bakery,2,160,320,131,189,0.590625,Jul-2026,2026,UPI,Cancelled,Not Completed
+ORD1159,2026-08-21,Whitefield,Veg Puff,Snacks,2,80,160,79,81,0.50625,Aug-2026,2026,Card,Completed,Completed
+ORD1147,2026-06-06,HSR Layout,Nachos,Snacks,1,170,170,79,91,0.535294,Jun-2026,2026,UPI,Cancelled,Not Completed
+ORD1028,2026-08-06,HSR Layout,Brownie,Bakery,2,150,300,156,144,0.48,Aug-2026,2026,Cash,Completed,Completed
+ORD1126,2026-06-11,Indiranagar,Filter Coffee,Hot Beverages,1,120,120,54,66,0.55,Jun-2026,2026,Card,Completed,Completed
+ORD1052,2026-07-22,Indiranagar,Nachos,Snacks,2,170,340,174,166,0.488235,Jul-2026,2026,UPI,Completed,Completed
+ORD1002,2026-06-08,Indiranagar,Latte,Hot Beverages,1,190,190,74,116,0.610526,Jun-2026,2026,UPI,Completed,Completed
+ORD1100,2026-07-30,HSR Layout,Frappe,Cold Beverages,3,240,720,290,430,0.597222,Jul-2026,2026,UPI,Cancelled,Not Completed
+ORD1017,2026-07-04,Whitefield,Cappuccino,Hot Beverages,1,180,180,73,107,0.594444,Jul-2026,2026,Cash,Completed,Completed
+ORD1114,2026-07-10,HSR Layout,Brownie,Bakery,4,150,600,272,328,0.546667,Jul-2026,2026,UPI,Completed,Completed
+ORD1058,2026-07-03,Koramangala,Cappuccino,Hot Beverages,1,180,180,72,108,0.6,Jul-2026,2026,Card,Completed,Completed
+ORD1161,2026-06-11,HSR Layout,Frappe,Cold Beverages,1,240,240,109,131,0.545833,Jun-2026,2026,UPI,Completed,Completed
+ORD1178,2026-08-28,HSR Layout,Garlic Bread,Snacks,3,150,450,230,220,0.488889,Aug-2026,2026,Card,Completed,Completed
+ORD1158,2026-07-06,Whitefield,Danish Pastry,Bakery,1,160,160,79,81,0.50625,Jul-2026,2026,UPI,Completed,Completed
+ORD1097,2026-08-27,Indiranagar,Espresso,Hot Beverages,1,150,150,56,94,0.626667,Aug-2026,2026,UPI,Completed,Completed
+ORD1040,2026-06-24,Koramangala,Hot Chocolate,Hot Beverages,1,170,170,68,102,0.6,Jun-2026,2026,Cash,Completed,Completed
+ORD1179,2026-06-30,Whitefield,Iced Latte,Cold Beverages,1,200,200,88,112,0.56,Jun-2026,2026,Cash,Completed,Completed
+ORD1175,2026-08-06,Whitefield,Croissant,Bakery,2,140,280,144,136,0.485714,Aug-2026,2026,Not Specified,Cancelled,Not Completed
+ORD1048,2026-08-05,HSR Layout,Muffin,Bakery,1,130,130,58,72,0.553846,Aug-2026,2026,UPI,Completed,Completed
+ORD1065,2026-07-10,Indiranagar,Brownie,Bakery,1,150,150,66,84,0.56,Jul-2026,2026,UPI,Completed,Completed
+ORD1108,2026-08-27,HSR Layout,Iced Latte,Cold Beverages,1,200,200,82,118,0.59,Aug-2026,2026,Card,Completed,Completed
+ORD1127,2026-06-18,HSR Layout,Veg Puff,Snacks,2,80,160,81,79,0.49375,Jun-2026,2026,Cash,Completed,Completed
+ORD1026,2026-08-06,Whitefield,Cold Brew,Cold Beverages,1,220,220,89,131,0.595455,Aug-2026,2026,UPI,Completed,Completed
+ORD1025,2026-08-09,Koramangala,Nachos,Snacks,1,170,170,86,84,0.494118,Aug-2026,2026,UPI,Completed,Completed
+ORD1104,2026-08-16,Koramangala,Cappuccino,Hot Beverages,2,180,360,162,198,0.55,Aug-2026,2026,UPI,Completed,Completed
+ORD1059,2026-07-02,HSR Layout,Filter Coffee,Hot Beverages,2,120,240,100,140,0.583333,Jul-2026,2026,Cash,Completed,Completed
+ORD1009,2026-06-10,Koramangala,Nachos,Snacks,1,170,170,88,82,0.482353,Jun-2026,2026,UPI,Completed,Completed
+ORD1034,2026-06-04,Indiranagar,Veg Puff,Snacks,3,80,240,105,135,0.5625,Jun-2026,2026,Card,Cancelled,Not Completed
+ORD1072,2026-07-28,Koramangala,Cappuccino,Hot Beverages,2,180,360,151,209,0.580556,Jul-2026,2026,UPI,Completed,Completed
+ORD1122,2026-07-03,HSR Layout,Garlic Bread,Snacks,1,150,150,73,77,0.513333,Jul-2026,2026,UPI,Cancelled,Not Completed
+ORD1067,2026-07-22,Koramangala,Danish Pastry,Bakery,1,160,160,70,90,0.5625,Jul-2026,2026,UPI,Completed,Completed
+ORD1064,2026-06-01,Whitefield,Brownie,Bakery,4,150,600,310,290,0.483333,Jun-2026,2026,UPI,Completed,Completed
+ORD1172,2026-08-01,Koramangala,Danish Pastry,Bakery,3,160,480,235,245,0.510417,Aug-2026,2026,Not Specified,Completed,Completed
+ORD1188,2026-08-08,Indiranagar,Espresso,Hot Beverages,2,150,300,114,186,0.62,Aug-2026,2026,UPI,Completed,Completed
+ORD1154,2026-06-04,Koramangala,Filter Coffee,Hot Beverages,1,120,120,54,66,0.55,Jun-2026,2026,UPI,Cancelled,Not Completed
+ORD1156,2026-08-18,Whitefield,Veg Puff,Snacks,1,80,80,39,41,0.5125,Aug-2026,2026,Card,Completed,Completed
+ORD1031,2026-08-18,Koramangala,Garlic Bread,Snacks,3,150,450,209,241,0.535556,Aug-2026,2026,Cash,Completed,Completed
+ORD1077,2026-08-01,Koramangala,Garlic Bread,Snacks,1,150,150,76,74,0.493333,Aug-2026,2026,Cash,Completed,Completed
+ORD1133,2026-06-25,Koramangala,Brownie,Bakery,2,150,300,126,174,0.58,Jun-2026,2026,Cash,Completed,Completed
+ORD1119,2026-06-25,Koramangala,Muffin,Bakery,1,130,130,57,73,0.561538,Jun-2026,2026,Card,Completed,Completed
+ORD1070,2026-08-29,Indiranagar,Nachos,Snacks,2,170,340,168,172,0.505882,Aug-2026,2026,Card,Completed,Completed
+ORD1180,2026-06-05,Koramangala,Filter Coffee,Hot Beverages,1,120,120,53,67,0.558333,Jun-2026,2026,UPI,Completed,Completed
+ORD1129,2026-06-26,HSR Layout,Frappe,Cold Beverages,1,240,240,97,143,0.595833,Jun-2026,2026,UPI,Cancelled,Not Completed
+ORD1110,2026-07-08,Koramangala,Garlic Bread,Snacks,2,150,300,161,139,0.463333,Jul-2026,2026,UPI,Cancelled,Not Completed
+ORD1138,2026-08-21,Koramangala,Cold Brew,Cold Beverages,1,220,220,90,130,0.590909,Aug-2026,2026,Card,Completed,Completed
+ORD1029,2026-06-25,Whitefield,Veg Puff,Snacks,3,80,240,123,117,0.4875,Jun-2026,2026,UPI,Cancelled,Not Completed
+ORD1091,2026-07-14,Whitefield,Croissant,Bakery,1,140,140,68,72,0.514286,Jul-2026,2026,Cash,Completed,Completed
+ORD1135,2026-07-14,Indiranagar,Latte,Hot Beverages,1,190,190,71,119,0.626316,Jul-2026,2026,Cash,Completed,Completed
+ORD1016,2026-06-11,Indiranagar,Hot Chocolate,Hot Beverages,1,170,170,63,107,0.629412,Jun-2026,2026,UPI,Completed,Completed
+ORD1083,2026-08-02,HSR Layout,Danish Pastry,Bakery,1,160,160,67,93,0.58125,Aug-2026,2026,UPI,Completed,Completed
+ORD1013,2026-07-16,Indiranagar,Filter Coffee,Hot Beverages,2,120,240,89,151,0.629167,Jul-2026,2026,UPI,Completed,Completed
+ORD1162,2026-07-03,Whitefield,Muffin,Bakery,2,130,260,127,133,0.511538,Jul-2026,2026,UPI,Completed,Completed
+ORD1197,2026-07-13,HSR Layout,Frappe,Cold Beverages,2,240,480,195,285,0.59375,Jul-2026,2026,Cash,Completed,Completed
+ORD1036,2026-08-23,Koramangala,Nachos,Snacks,2,170,340,149,191,0.561765,Aug-2026,2026,Card,Completed,Completed
+ORD1081,2026-06-19,Whitefield,Brownie,Bakery,1,150,150,75,75,0.5,Jun-2026,2026,UPI,Cancelled,Not Completed
+ORD1006,2026-08-31,Koramangala,Latte,Hot Beverages,2,190,380,152,228,0.6,Aug-2026,2026,UPI,Completed,Completed
+ORD1054,2026-07-04,Koramangala,Frappe,Cold Beverages,1,240,240,112,128,0.533333,Jul-2026,2026,UPI,Completed,Completed
+ORD1187,2026-06-04,HSR Layout,Cappuccino,Hot Beverages,1,180,180,77,103,0.572222,Jun-2026,2026,UPI,Completed,Completed
+ORD1051,2026-06-24,Whitefield,Hot Chocolate,Hot Beverages,3,170,510,222,288,0.564706,Jun-2026,2026,Cash,Cancelled,Not Completed
+ORD1019,2026-07-21,HSR Layout,Danish Pastry,Bakery,1,160,160,73,87,0.54375,Jul-2026,2026,UPI,Completed,Completed
+ORD1134,2026-08-25,Koramangala,Filter Coffee,Hot Beverages,2,120,240,101,139,0.579167,Aug-2026,2026,UPI,Completed,Completed
+ORD1170,2026-06-14,Koramangala,Iced Latte,Cold Beverages,1,200,200,80,120,0.6,Jun-2026,2026,Cash,Completed,Completed
+ORD1120,2026-08-31,Whitefield,Iced Tea,Cold Beverages,1,150,150,68,82,0.546667,Aug-2026,2026,Cash,Completed,Completed
+ORD1149,2026-08-20,Whitefield,Sandwich,Snacks,1,190,190,86,104,0.547368,Aug-2026,2026,UPI,Completed,Completed
+ORD1060,2026-07-21,Whitefield,Iced Latte,Cold Beverages,4,200,800,331,469,0.58625,Jul-2026,2026,Card,Completed,Completed
+ORD1085,2026-08-31,Koramangala,Croissant,Bakery,1,140,140,57,83,0.592857,Aug-2026,2026,UPI,Completed,Completed
+ORD1101,2026-06-14,HSR Layout,Espresso,Hot Beverages,2,150,300,106,194,0.646667,Jun-2026,2026,Cash,Completed,Completed
+ORD1123,2026-07-09,Indiranagar,Frappe,Cold Beverages,1,240,240,99,141,0.5875,Jul-2026,2026,UPI,Completed,Completed
+ORD1062,2026-08-20,Whitefield,Sandwich,Snacks,1,190,190,82,108,0.568421,Aug-2026,2026,Card,Completed,Completed
+ORD1173,2026-07-28,Indiranagar,Frappe,Cold Beverages,4,240,960,390,570,0.59375,Jul-2026,2026,Cash,Completed,Completed
+ORD1111,2026-06-08,Indiranagar,Danish Pastry,Bakery,1,160,160,64,96,0.6,Jun-2026,2026,Cash,Completed,Completed
+ORD1073,2026-06-09,Koramangala,Nachos,Snacks,1,170,170,88,82,0.482353,Jun-2026,2026,UPI,Completed,Completed
+ORD1099,2026-08-15,HSR Layout,Cappuccino,Hot Beverages,1,180,180,80,100,0.555556,Aug-2026,2026,Card,Completed,Completed
+ORD1189,2026-07-07,Koramangala,Cappuccino,Hot Beverages,1,180,180,65,115,0.638889,Jul-2026,2026,Cash,Completed,Completed
+ORD1164,2026-08-23,Koramangala,Cappuccino,Hot Beverages,1,180,180,73,107,0.594444,Aug-2026,2026,UPI,Completed,Completed
+ORD1121,2026-06-09,Koramangala,Frappe,Cold Beverages,1,240,240,108,132,0.55,Jun-2026,2026,UPI,Completed,Completed
+ORD1113,2026-06-11,Indiranagar,Muffin,Bakery,1,130,130,62,68,0.523077,Jun-2026,2026,UPI,Completed,Completed
+ORD1049,2026-07-14,HSR Layout,Veg Puff,Snacks,2,80,160,75,85,0.53125,Jul-2026,2026,UPI,Completed,Completed
+ORD1005,2026-08-13,Whitefield,Cold Brew,Cold Beverages,1,220,220,96,124,0.563636,Aug-2026,2026,UPI,Completed,Completed
+ORD1057,2026-06-27,Whitefield,Veg Puff,Snacks,2,80,160,71,89,0.55625,Jun-2026,2026,UPI,Completed,Completed
